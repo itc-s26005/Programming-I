@@ -1,6 +1,6 @@
 my_list = ['tokyo', 'osaka', 'fukuoka', 'aich', 'kyoto', 'chiba', 'saitama', 'gunma']
 my_list_6 = []
-
+ 
 for s in my_list:
     if len(s) >= 6:
         my_list_6.append(s)
