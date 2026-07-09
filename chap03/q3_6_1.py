@@ -5,7 +5,7 @@ num4 = ''.join(sample4)
 while True:
     val = input()
     if val == num4:
-        print('OK')
+        print('OK') 
         break
     else:
         print(val, ':NG')
